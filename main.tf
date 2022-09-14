@@ -19,6 +19,6 @@ provider "awsutils" {
   # Configuration options
 }
 
-resource "null_resource" "name" {
+resource "null_resource" "na2me" {
   
 }
